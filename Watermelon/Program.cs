@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace Watermelon
 {
@@ -7,10 +7,10 @@ namespace Watermelon
         static void Main(string[] args)
         {
             int w = Convert.ToInt32(Console.ReadLine());
-            
-            if(w % 2 == 0)
+
+            if (w % 2 == 0)
             {
-                if(w == 2)
+                if (w == 2)
                 {
                     Console.WriteLine("NO");
                 }
