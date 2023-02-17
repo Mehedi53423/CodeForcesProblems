@@ -1,0 +1,8 @@
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\bin\Debug\Team.exe.config
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\bin\Debug\Team.exe
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\bin\Debug\Team.pdb
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\obj\Debug\Team.csproj.AssemblyReference.cache
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\obj\Debug\Team.csproj.SuggestedBindingRedirects.cache
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\obj\Debug\Team.csproj.CoreCompileInputs.cache
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\obj\Debug\Team.exe
+D:\Programes\C#\DotNetProjects\CodeForcesProblems\Team\obj\Debug\Team.pdb
