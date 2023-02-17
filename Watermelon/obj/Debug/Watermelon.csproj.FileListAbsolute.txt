@@ -1,8 +1,0 @@
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\bin\Debug\Watermelon.exe.config
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\bin\Debug\Watermelon.exe
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\bin\Debug\Watermelon.pdb
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\obj\Debug\Watermelon.csproj.AssemblyReference.cache
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\obj\Debug\Watermelon.csproj.SuggestedBindingRedirects.cache
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\obj\Debug\Watermelon.csproj.CoreCompileInputs.cache
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\obj\Debug\Watermelon.exe
-D:\Programes\C#\DotNetProjects\CodeForcesProblems\Watermelon\obj\Debug\Watermelon.pdb
