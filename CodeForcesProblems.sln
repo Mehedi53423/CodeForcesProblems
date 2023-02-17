@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoPiling", "DominoPilin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextRound", "NextRound\NextRound.csproj", "{2D243C13-EC9D-455D-B6BE-3DC86E19F126}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCapitalization", "WordCapitalization\WordCapitalization.csproj", "{11FC8348-F62F-438B-941C-3853F73A98A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2D243C13-EC9D-455D-B6BE-3DC86E19F126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D243C13-EC9D-455D-B6BE-3DC86E19F126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D243C13-EC9D-455D-B6BE-3DC86E19F126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FC8348-F62F-438B-941C-3853F73A98A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FC8348-F62F-438B-941C-3853F73A98A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FC8348-F62F-438B-941C-3853F73A98A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FC8348-F62F-438B-941C-3853F73A98A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
